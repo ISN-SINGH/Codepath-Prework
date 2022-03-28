@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]https://recordit.co/DSffMO8a6G
-![]https://recordit.co/SxMbPD2L00
-![]https://recordit.co/OKosqrDKvP
+![](https://recordit.co/DSffMO8a6G)
+![](https://recordit.co/SxMbPD2L00)
+![](https://recordit.co/OKosqrDKvP)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
@@ -74,7 +74,7 @@ change based on how many buttons there are.
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording]https://youtu.be/Fnnuo2IA_Sw
+[My 5-minute Interview Recording](https://youtu.be/Fnnuo2IA_Sw)
 
 
 ## License
