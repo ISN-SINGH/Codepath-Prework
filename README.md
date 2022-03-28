@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://recordit.co/DSffMO8a6G)
-![](https://recordit.co/SxMbPD2L00)
-![](https://recordit.co/OKosqrDKvP)
+![](http://g.recordit.co/DSffMO8a6G.gif)
+![](http://g.recordit.co/SxMbPD2L00.gif)
+![](http://g.recordit.co/OKosqrDKvP.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
@@ -79,7 +79,7 @@ change based on how many buttons there are.
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Ishan Singh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
